@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="ReactJS" src="cover-reactjs.png" width="100%"/>
-    <br>Criando um hook de carrinho de compras<br/>
+    <br>Componetizando a aplicação<br/>
 </h1>
 
 <p align="center">
